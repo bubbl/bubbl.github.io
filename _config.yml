@@ -1,4 +1,5 @@
 # Site settings
+enforce_ssl: bubbl.github.io
 title: Bart Bania
 email: contact@bartbania.com
 url: https://bubbl.github.io

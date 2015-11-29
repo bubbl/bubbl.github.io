@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+    {% if site.enforce_ssl %}
+      <script type="text/javascript">
+        var enforce = "{{ site.enforce_ssl }}";
+        if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+          window.location = window.location.toString().replace(/^http:/, "https:");
+      </script>
+    {% endif %}
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}
