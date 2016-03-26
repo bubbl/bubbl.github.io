@@ -39,6 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: paypal
+    url: paypal.me/BBania
   - title: twitter
     url: http://twitter.com/laptopblues
   - title: github-square
