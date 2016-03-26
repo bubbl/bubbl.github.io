@@ -40,11 +40,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: paypal
-    url: paypal.me/BBania
-  - title: twitter
-    url: http://twitter.com/laptopblues
+    url: https://paypal.me/BBania
+  - title: twitter-square
+    url: https://twitter.com/laptopblues
   - title: github-square
-    url: http://github.com/bubbl
+    url: https://github.com/bubbl
   - title: spoon
     url: https://hub.docker.com/u/bbania/
 
